@@ -7,7 +7,7 @@ $(document).ready(function(){
     let current_date = date.toDateString()
 
     //  Mostrando la fecha en la página HTML usando JQUERY y JS
-    $('').text('Date : ' + current_date)
+    $('').text('Fecha: ' + current_date)
 
     
     let review = ""
