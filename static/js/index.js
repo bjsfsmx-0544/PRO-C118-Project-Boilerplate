@@ -2,7 +2,7 @@ $(document).ready(function(){
 
     console.log('El documento está listo.')
 
-    //  Obtenieno la fecha usando el objeto Date() y convirtiéndolo a cadena de caracteres
+    //  Obteniendo la fecha usando el objeto Date() y convirtiéndolo a cadena de caracteres
     let date = new Date()
     let current_date = date.toDateString()
 
